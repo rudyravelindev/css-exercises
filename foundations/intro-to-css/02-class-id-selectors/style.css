@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.pink {
+  background-color: #ffc0cb;
+}
+.paragraph1 {
+  font-family:
+    'Verdana',
+    'DejaVu Sans' sans-serif;
+}
+#text2 {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.pink.paragraph3 {
+  font-size: 24px;
+}
+
+#text4 {
+  background-color: #70ce70;
+}
