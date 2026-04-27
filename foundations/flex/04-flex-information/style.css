@@ -10,8 +10,22 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
 }
 
+.flour {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.food1 {
+  text-align: center;
+  margin: 80px;
+  pad: 80px;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
